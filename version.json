@@ -1,13 +1,12 @@
 {
  "version": "1.13.92",
- "exe_url": "https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
+ "exe_url": "https://ghproxy.net/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
  "exe_urls": [
-  "https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
   "https://ghproxy.net/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
-  "https://gh-proxy.com/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe"
+  "https://gh-proxy.com/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
+  "https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe"
  ],
  "sha1": "d92cd7e5e5e9474ba0ea40363d7b0492b198b2d4",
  "size": 101343966,
- "notes": "v1.13.92",
- "at": "2026-10-28 13:56:21"
+ "notes": "v1.13.92"
 }
