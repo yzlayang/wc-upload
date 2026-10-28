@@ -1,13 +1,16 @@
 {
- "version": "1.13.97",
+ "version": "1.13.98",
  "exe_url": "https://ghproxy.net/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
  "exe_urls": [
   "https://ghproxy.net/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
   "https://gh-proxy.com/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
+  "https://github.moeyy.xyz/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
+  "https://ghfast.top/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
   "https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe"
  ],
- "sha1": "16238305d25b89727fe225b53e4cc6f535331e72",
- "size": 101347458,
- "notes": "1. 启动后自动检查新版本，发现更新直接弹窗（不用手动点）\n2. 弹窗带下载进度条，下载完成自动重启完成更新\n3. 网络异常自动重试（20s / 40s），线路代理优先更快\n4. 每次启动清空上一轮练度角标",
- "at": "2026-10-28 18:13:17"
+ "page_url": "https://github.com/yzlayang/wc-upload/releases/latest",
+ "sha1": "2c50652ef71e439e252aa19b2a5bd1e6b3df77be",
+ "size": 101348846,
+ "notes": "1. 下载卡住会自动换线路（30 秒无数据即切换），共 5 条线路\n2. 新增「手动更新」：浏览器下载 exe 后可一键导入并自动重启\n3. 更新弹窗显示当前线路序号\n4. 启动自动检查新版本、有更新直接弹窗",
+ "at": "2026-10-28 18:20:23"
 }
