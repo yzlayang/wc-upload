@@ -1,0 +1,599 @@
+{
+ "rounds": [
+  {
+   "bosses": [
+    {
+     "base": 4680.840846,
+     "code": "B1",
+     "cumulative": 4680.840846,
+     "extra": 0.0,
+     "hp": 5612519.0,
+     "isChest": false,
+     "mult": 0.000834,
+     "name": "燎照之骑",
+     "slot": 1,
+     "total": 4680.840846
+    },
+    {
+     "base": 4680.840846,
+     "code": "B2",
+     "cumulative": 9361.681692,
+     "extra": 0.0,
+     "hp": 5612519.0,
+     "isChest": false,
+     "mult": 0.000834,
+     "name": "封庭械囿",
+     "slot": 2,
+     "total": 4680.840846
+    },
+    {
+     "base": 4680.840846,
+     "code": "B3",
+     "cumulative": 14042.522538,
+     "extra": 0.0,
+     "hp": 5612519.0,
+     "isChest": false,
+     "mult": 0.000834,
+     "name": "无冠者",
+     "slot": 3,
+     "total": 4680.840846
+    },
+    {
+     "base": 4680.840846,
+     "code": "B4",
+     "cumulative": 18723.363384,
+     "extra": 0.0,
+     "hp": 5612519.0,
+     "isChest": false,
+     "mult": 0.000834,
+     "name": "天傀劫煞",
+     "slot": 4,
+     "total": 4680.840846
+    },
+    {
+     "base": 5667.521778,
+     "code": "B5",
+     "cumulative": 25390.885162,
+     "extra": 1000.0,
+     "hp": 6173771.0,
+     "isChest": true,
+     "mult": 0.000918,
+     "name": "矩阵奇藏",
+     "slot": 5,
+     "total": 6667.521778
+    }
+   ],
+   "id": "R1",
+   "index": 1
+  },
+  {
+   "bosses": [
+    {
+     "base": 9159.85344,
+     "code": "B1",
+     "cumulative": 34550.738602,
+     "extra": 0.0,
+     "hp": 9541514.0,
+     "isChest": false,
+     "mult": 0.00096,
+     "name": "燎照之骑",
+     "slot": 1,
+     "total": 9159.85344
+    },
+    {
+     "base": 9159.85344,
+     "code": "B2",
+     "cumulative": 43710.592042,
+     "extra": 0.0,
+     "hp": 9541514.0,
+     "isChest": false,
+     "mult": 0.00096,
+     "name": "封庭械囿",
+     "slot": 2,
+     "total": 9159.85344
+    },
+    {
+     "base": 9159.85344,
+     "code": "B3",
+     "cumulative": 52870.445482,
+     "extra": 0.0,
+     "hp": 9541514.0,
+     "isChest": false,
+     "mult": 0.00096,
+     "name": "无冠者",
+     "slot": 3,
+     "total": 9159.85344
+    },
+    {
+     "base": 9159.85344,
+     "code": "B4",
+     "cumulative": 62030.298922,
+     "extra": 0.0,
+     "hp": 9541514.0,
+     "isChest": false,
+     "mult": 0.00096,
+     "name": "天傀劫煞",
+     "slot": 4,
+     "total": 9159.85344
+    },
+    {
+     "base": 13457.67917,
+     "code": "B5",
+     "cumulative": 76487.978092,
+     "extra": 1000.0,
+     "hp": 12756094.0,
+     "isChest": true,
+     "mult": 0.001055,
+     "name": "矩阵奇藏",
+     "slot": 5,
+     "total": 14457.67917
+    }
+   ],
+   "id": "R2",
+   "index": 2
+  },
+  {
+   "bosses": [
+    {
+     "base": 20222.675893,
+     "code": "B1",
+     "cumulative": 96710.653985,
+     "extra": 0.0,
+     "hp": 19388951.0,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "燎照之骑",
+     "slot": 1,
+     "total": 20222.675893
+    },
+    {
+     "base": 20222.675893,
+     "code": "B2",
+     "cumulative": 116933.329878,
+     "extra": 0.0,
+     "hp": 19388951.0,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "封庭械囿",
+     "slot": 2,
+     "total": 20222.675893
+    },
+    {
+     "base": 20222.675893,
+     "code": "B3",
+     "cumulative": 137156.005771,
+     "extra": 0.0,
+     "hp": 19388951.0,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "无冠者",
+     "slot": 3,
+     "total": 20222.675893
+    },
+    {
+     "base": 20222.675893,
+     "code": "B4",
+     "cumulative": 157378.681664,
+     "extra": 0.0,
+     "hp": 19388951.0,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "天傀劫煞",
+     "slot": 4,
+     "total": 20222.675893
+    },
+    {
+     "base": 22239.126797,
+     "code": "B5",
+     "cumulative": 180617.808461,
+     "extra": 1000.0,
+     "hp": 19388951.0,
+     "isChest": true,
+     "mult": 0.001147,
+     "name": "矩阵奇藏",
+     "slot": 5,
+     "total": 23239.126797
+    }
+   ],
+   "id": "R3",
+   "index": 3
+  },
+  {
+   "bosses": [
+    {
+     "base": 21233.809688,
+     "code": "B1",
+     "cumulative": 201851.618149,
+     "extra": 0.0,
+     "hp": 20358398.55,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "燎照之骑",
+     "slot": 1,
+     "total": 21233.809688
+    },
+    {
+     "base": 22244.943482,
+     "code": "B2",
+     "cumulative": 224096.561631,
+     "extra": 0.0,
+     "hp": 21327846.1,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "封庭械囿",
+     "slot": 2,
+     "total": 22244.943482
+    },
+    {
+     "base": 23256.077277,
+     "code": "B3",
+     "cumulative": 247352.638908,
+     "extra": 0.0,
+     "hp": 22297293.65,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "无冠者",
+     "slot": 3,
+     "total": 23256.077277
+    },
+    {
+     "base": 24267.211072,
+     "code": "B4",
+     "cumulative": 271619.849979,
+     "extra": 0.0,
+     "hp": 23266741.2,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "天傀劫煞",
+     "slot": 4,
+     "total": 24267.211072
+    },
+    {
+     "base": 27798.908496,
+     "code": "B5",
+     "cumulative": 300418.758476,
+     "extra": 1000.0,
+     "hp": 24236188.75,
+     "isChest": true,
+     "mult": 0.001147,
+     "name": "矩阵奇藏",
+     "slot": 5,
+     "total": 28798.908496
+    }
+   ],
+   "id": "R4",
+   "index": 4
+  },
+  {
+   "bosses": [
+    {
+     "base": 26289.478661,
+     "code": "B1",
+     "cumulative": 326708.237137,
+     "extra": 0.0,
+     "hp": 25205636.3,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "燎照之骑",
+     "slot": 1,
+     "total": 26289.478661
+    },
+    {
+     "base": 27300.612456,
+     "code": "B2",
+     "cumulative": 354008.849592,
+     "extra": 0.0,
+     "hp": 26175083.85,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "封庭械囿",
+     "slot": 2,
+     "total": 27300.612456
+    },
+    {
+     "base": 28311.74625,
+     "code": "B3",
+     "cumulative": 382320.595842,
+     "extra": 0.0,
+     "hp": 27144531.4,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "无冠者",
+     "slot": 3,
+     "total": 28311.74625
+    },
+    {
+     "base": 29322.880045,
+     "code": "B4",
+     "cumulative": 411643.475887,
+     "extra": 0.0,
+     "hp": 28113978.95,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "天傀劫煞",
+     "slot": 4,
+     "total": 29322.880045
+    },
+    {
+     "base": 33358.690195,
+     "code": "B5",
+     "cumulative": 446002.166083,
+     "extra": 1000.0,
+     "hp": 29083426.5,
+     "isChest": true,
+     "mult": 0.001147,
+     "name": "矩阵奇藏",
+     "slot": 5,
+     "total": 34358.690195
+    }
+   ],
+   "id": "R5",
+   "index": 5
+  },
+  {
+   "bosses": [
+    {
+     "base": 31345.147634,
+     "code": "B1",
+     "cumulative": 477347.313717,
+     "extra": 0.0,
+     "hp": 30052874.05,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "燎照之骑",
+     "slot": 1,
+     "total": 31345.147634
+    },
+    {
+     "base": 32356.281429,
+     "code": "B2",
+     "cumulative": 509703.595146,
+     "extra": 0.0,
+     "hp": 31022321.6,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "封庭械囿",
+     "slot": 2,
+     "total": 32356.281429
+    },
+    {
+     "base": 33367.415223,
+     "code": "B3",
+     "cumulative": 543071.010369,
+     "extra": 0.0,
+     "hp": 31991769.15,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "无冠者",
+     "slot": 3,
+     "total": 33367.415223
+    },
+    {
+     "base": 34378.549018,
+     "code": "B4",
+     "cumulative": 577449.559387,
+     "extra": 0.0,
+     "hp": 32961216.7,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "天傀劫煞",
+     "slot": 4,
+     "total": 34378.549018
+    },
+    {
+     "base": 38918.471895,
+     "code": "B5",
+     "cumulative": 617368.031282,
+     "extra": 1000.0,
+     "hp": 33930664.25,
+     "isChest": true,
+     "mult": 0.001147,
+     "name": "矩阵奇藏",
+     "slot": 5,
+     "total": 39918.471895
+    }
+   ],
+   "id": "R6",
+   "index": 6
+  },
+  {
+   "bosses": [
+    {
+     "base": 36400.816607,
+     "code": "B1",
+     "cumulative": 653768.847889,
+     "extra": 0.0,
+     "hp": 34900111.8,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "燎照之骑",
+     "slot": 1,
+     "total": 36400.816607
+    },
+    {
+     "base": 37411.950402,
+     "code": "B2",
+     "cumulative": 691180.798291,
+     "extra": 0.0,
+     "hp": 35869559.35,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "封庭械囿",
+     "slot": 2,
+     "total": 37411.950402
+    },
+    {
+     "base": 38423.084197,
+     "code": "B3",
+     "cumulative": 729603.882488,
+     "extra": 0.0,
+     "hp": 36839006.9,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "无冠者",
+     "slot": 3,
+     "total": 38423.084197
+    },
+    {
+     "base": 39434.217991,
+     "code": "B4",
+     "cumulative": 769038.10048,
+     "extra": 0.0,
+     "hp": 37808454.45,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "天傀劫煞",
+     "slot": 4,
+     "total": 39434.217991
+    },
+    {
+     "base": 44478.253594,
+     "code": "B5",
+     "cumulative": 814516.354074,
+     "extra": 1000.0,
+     "hp": 38777902.0,
+     "isChest": true,
+     "mult": 0.001147,
+     "name": "矩阵奇藏",
+     "slot": 5,
+     "total": 45478.253594
+    }
+   ],
+   "id": "R7",
+   "index": 7
+  },
+  {
+   "bosses": [
+    {
+     "base": 41456.485581,
+     "code": "B1",
+     "cumulative": 855972.839654,
+     "extra": 0.0,
+     "hp": 39747349.55,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "燎照之骑",
+     "slot": 1,
+     "total": 41456.485581
+    },
+    {
+     "base": 42467.619375,
+     "code": "B2",
+     "cumulative": 898440.459029,
+     "extra": 0.0,
+     "hp": 40716797.1,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "封庭械囿",
+     "slot": 2,
+     "total": 42467.619375
+    },
+    {
+     "base": 43478.75317,
+     "code": "B3",
+     "cumulative": 941919.212199,
+     "extra": 0.0,
+     "hp": 41686244.65,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "无冠者",
+     "slot": 3,
+     "total": 43478.75317
+    },
+    {
+     "base": 44489.886965,
+     "code": "B4",
+     "cumulative": 986409.099164,
+     "extra": 0.0,
+     "hp": 42655692.2,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "天傀劫煞",
+     "slot": 4,
+     "total": 44489.886965
+    },
+    {
+     "base": 50038.035293,
+     "code": "B5",
+     "cumulative": 1037447.134457,
+     "extra": 1000.0,
+     "hp": 43625139.75,
+     "isChest": true,
+     "mult": 0.001147,
+     "name": "矩阵奇藏",
+     "slot": 5,
+     "total": 51038.035293
+    }
+   ],
+   "id": "R8",
+   "index": 8
+  },
+  {
+   "bosses": [
+    {
+     "base": 46512.154554,
+     "code": "B1",
+     "cumulative": 1083959.289011,
+     "extra": 0.0,
+     "hp": 44594587.3,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "燎照之骑",
+     "slot": 1,
+     "total": 46512.154554
+    },
+    {
+     "base": 47523.288349,
+     "code": "B2",
+     "cumulative": 1131482.57736,
+     "extra": 0.0,
+     "hp": 45564034.85,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "封庭械囿",
+     "slot": 2,
+     "total": 47523.288349
+    },
+    {
+     "base": 48534.422143,
+     "code": "B3",
+     "cumulative": 1180016.999503,
+     "extra": 0.0,
+     "hp": 46533482.4,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "无冠者",
+     "slot": 3,
+     "total": 48534.422143
+    },
+    {
+     "base": 49545.555938,
+     "code": "B4",
+     "cumulative": 1229562.555441,
+     "extra": 0.0,
+     "hp": 47502929.95,
+     "isChest": false,
+     "mult": 0.001043,
+     "name": "天傀劫煞",
+     "slot": 4,
+     "total": 49545.555938
+    },
+    {
+     "base": 55597.816992,
+     "code": "B5",
+     "cumulative": 1286160.372433,
+     "extra": 1000.0,
+     "hp": 48472377.5,
+     "isChest": true,
+     "mult": 0.001147,
+     "name": "矩阵奇藏",
+     "slot": 5,
+     "total": 56597.816992
+    }
+   ],
+   "id": "R9",
+   "index": 9
+  }
+ ],
+ "source": "矩阵血量分数统计表.xlsx"
+}

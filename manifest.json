@@ -1,0 +1,15 @@
+{
+ "at": "2026-10-28 13:20:24",
+ "files": {
+  "matrix.json": {
+   "sha1": "d3dcf256a56e193726246f1bbc6d0970bc336ecc",
+   "size": 11925
+  },
+  "rules.json": {
+   "sha1": "e3ec76fc7c64b711a0e8fc2879c87282bb52fcdd",
+   "size": 6172
+  }
+ },
+ "notes": "规则/配置更新",
+ "version": "1c96c66699c6bc5c"
+}

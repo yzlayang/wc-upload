@@ -1,0 +1,530 @@
+{
+ "rules": [
+  {
+   "enabled": true,
+   "members": [
+    "心",
+    "锁暝"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "心",
+    "今汐",
+    "守岸人"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "心",
+    "卜灵",
+    "穗穗"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "心",
+    "主角",
+    "穗穗"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "锁暝",
+    "散华"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "景燃",
+    "尤诺"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "景燃",
+    "莫特斐"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "清宵",
+    "达妮娅",
+    "莫宁"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "清宵",
+    "琳奈",
+    "莫宁"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "清宵",
+    "丽贝卡",
+    "莫宁"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "秧秧·玄翎",
+    "千咲",
+    "穗穗"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "秧秧·玄翎",
+    "莫特斐",
+    "千咲"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "秧秧·玄翎",
+    "丽贝卡",
+    "千咲"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "秧秧·玄翎",
+    "弗洛洛",
+    "千咲"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "露西",
+    "丽贝卡"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "西格莉卡",
+    "仇远"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "西格莉卡",
+    "洛瑟菈"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "爱弥斯",
+    "琳奈",
+    "莫宁"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "爱弥斯",
+    "露帕",
+    "莫宁"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "爱弥斯",
+    "达妮娅",
+    "千咲"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "爱弥斯",
+    "达妮娅",
+    "露帕"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "爱弥斯",
+    "达妮娅",
+    "穗穗"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "绯雪",
+    "洛瑟菈",
+    "穗穗"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "绯雪",
+    "洛瑟菈",
+    "千咲"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "绯雪",
+    "琳奈",
+    "穗穗"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "绯雪",
+    "琳奈",
+    "千咲"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "绯雪",
+    "琳奈",
+    "莫宁"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "陆·赫斯",
+    "达妮娅",
+    "莫宁"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "陆·赫斯",
+    "琳奈",
+    "莫宁"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "陆·赫斯",
+    "散华"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "嘉贝莉娜",
+    "仇远"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "嘉贝莉娜",
+    "露帕"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "嘉贝莉娜",
+    "洛瑟菈"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "奥古斯塔",
+    "莫特斐"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "奥古斯塔",
+    "尤诺"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "卡提希娅",
+    "夏空",
+    "千咲"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "卡提希娅",
+    "夏空",
+    "主角"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "卡提希娅",
+    "夏空",
+    "穗穗"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "卡提希娅",
+    "散华",
+    "千咲"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "卡提希娅",
+    "散华",
+    "主角"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "弗洛洛",
+    "坎特蕾拉",
+    "莫宁"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "弗洛洛",
+    "坎特蕾拉",
+    "洛可可"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "弗洛洛",
+    "坎特蕾拉",
+    "卜灵"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "弗洛洛",
+    "坎特蕾拉",
+    "仇远"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "弗洛洛",
+    "仇远"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "赞妮",
+    "菲比",
+    "主角"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "赞妮",
+    "菲比",
+    "守岸人"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "尤诺",
+    "琳奈"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "尤诺",
+    "夏空"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "尤诺",
+    "鉴心"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "长离",
+    "露帕"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "长离",
+    "今汐"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "珂莱塔",
+    "折枝",
+    "卜灵"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "珂莱塔",
+    "折枝",
+    "守岸人"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "珂莱塔",
+    "长离"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "椿",
+    "洛可可"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "椿",
+    "散华"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "椿",
+    "丹瑾"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "布兰特",
+    "露帕"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "布兰特",
+    "散华"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "今汐",
+    "折枝"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "今汐",
+    "弗洛洛"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "今汐",
+    "吟霖"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "相里要",
+    "秧秧"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "相里要",
+    "吟霖"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "忌炎",
+    "尤诺"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "忌炎",
+    "莫特斐"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "忌炎",
+    "夏空"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "忌炎",
+    "秋水"
+   ]
+  },
+  {
+   "enabled": true,
+   "members": [
+    "菲比",
+    "主角"
+   ]
+  }
+ ],
+ "version": "ec7e01d803b83c27"
+}
