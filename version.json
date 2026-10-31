@@ -1,5 +1,5 @@
 {
- "version": "1.14.0",
+ "version": "1.14.3",
  "exe_url": "https://ghproxy.net/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
  "exe_urls": [
   "https://ghproxy.net/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
@@ -9,8 +9,8 @@
   "https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe"
  ],
  "page_url": "https://github.com/yzlayang/wc-upload/releases/latest",
- "sha1": "3a1869e1051f2f656b4ab010d5a565fb3a61ae12",
- "size": 101349610,
- "notes": "1. 修复更新弹窗里「手动更新…」点了没反应的问题\n2. 弹窗增加提示：下载慢/失败可手动更新\n3. 共鸣链识别精度保持 97.5%（上一版改动）",
- "at": "2026-10-28 19:12:00"
+ "sha1": "ec8efaf5fae50ea072c9b9791d987fc0afae5915",
+ "size": 101350593,
+ "notes": "1. 矩阵填游戏队伍总分时，自动扣掉已击杀宝箱的 +1000/个，血条和游戏对齐\n2. 修复刚好打满一轮时误报「溢出 1000 分」\n3. 其余功能与上一版一致",
+ "at": "2026-10-31 19:15:03"
 }
