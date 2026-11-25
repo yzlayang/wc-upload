@@ -1,5 +1,5 @@
 {
- "version": "1.14.4",
+ "version": "1.15",
  "exe_url": "https://ghproxy.net/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
  "exe_urls": [
   "https://ghproxy.net/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
@@ -9,8 +9,8 @@
   "https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe"
  ],
  "page_url": "https://github.com/yzlayang/wc-upload/releases/latest",
- "sha1": "ad09dc5e8c009f66c8df495e807a542fe9870119",
- "size": 101397729,
- "notes": "1. 角色库新增五星角色「莉莉」（衍射/佩枪，固定 2 点体力），截图识别与练度识别已适配\n2. 老存档启动时自动补入新角色，不用重置角色库\n3. 其余功能与上一版一致",
- "at": "2026-11-13 18:18:57"
+ "sha1": "947df73a2627825e378ce46d9f720fe0ecb8be11",
+ "size": 107424998,
+ "notes": "1. 矩阵页新增怪物图鉴：怪物头像、属性抗性、推荐体系；主C 属性撞抗性会标红提醒\n2. 伤害归属图重做：先看清怪物是谁、怕什么属性，再看各队分段占比\n3. 新增角色体系（同奏/异常效应/声骸技能/谐度破坏/通用）与本期矩阵角色加强信息\n4. 配置识别与稳定性改进",
+ "at": "2026-11-25 13:25:09"
 }
