@@ -1,5 +1,5 @@
 {
- "version": "1.15",
+ "version": "1.15.1",
  "exe_url": "https://ghproxy.net/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
  "exe_urls": [
   "https://ghproxy.net/https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe",
@@ -9,8 +9,8 @@
   "https://github.com/yzlayang/wc-upload/releases/latest/download/app.exe"
  ],
  "page_url": "https://github.com/yzlayang/wc-upload/releases/latest",
- "sha1": "947df73a2627825e378ce46d9f720fe0ecb8be11",
- "size": 107424998,
- "notes": "1. 矩阵页新增怪物图鉴：怪物头像、属性抗性、推荐体系；主C 属性撞抗性会标红提醒\n2. 伤害归属图重做：先看清怪物是谁、怕什么属性，再看各队分段占比\n3. 新增角色体系（同奏/异常效应/声骸技能/谐度破坏/通用）与本期矩阵角色加强信息\n4. 配置识别与稳定性改进",
- "at": "2026-11-25 13:25:09"
+ "sha1": "db1bf37bdd879c3e9f87e1ff4a93661c1375b03b",
+ "size": 107425207,
+ "notes": "1. 默认矩阵怪物改为：怪物A 飞廉之猩 / 怪物B 达妮娅 / 怪物C 无冠者 / 怪物D 辛吉勒姆（与作者当前选择一致）\n2. 矩阵页保留怪物图鉴、属性抗性与推荐体系；主C 属性撞抗性仍会标红\n3. 配置识别与稳定性改进沿用上一版",
+ "at": "2026-11-25 13:50:03"
 }
